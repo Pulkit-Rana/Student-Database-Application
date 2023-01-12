@@ -9,14 +9,11 @@ Our application should do the following:
 4. A student can enroll in the following courses:
 
 History 101
-
 Mathematics 101
-
 English 101
-
 Chemistry 101
-
 Computer Science 101
+
 5. Each course costs $600 to enroll
 6. The student should be able to view their balance and pay the tuition
 7. To see the status of the student, we should see their name, ID, courses enrolled, and balance
